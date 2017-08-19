@@ -12,6 +12,7 @@
 		1CD27EA71F47CC9C007E0AB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CD27EA51F47CC9C007E0AB3 /* Main.storyboard */; };
 		1CD27EA91F47CC9C007E0AB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CD27EA81F47CC9C007E0AB3 /* Assets.xcassets */; };
 		1CD27EAC1F47CC9C007E0AB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CD27EAA1F47CC9C007E0AB3 /* LaunchScreen.storyboard */; };
+		1CD27EB41F47CE36007E0AB3 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD27EB31F47CE36007E0AB3 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1CD27EA81F47CC9C007E0AB3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1CD27EAB1F47CC9C007E0AB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1CD27EAD1F47CC9C007E0AB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1CD27EB31F47CE36007E0AB3 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				1CD27EA11F47CC9C007E0AB3 /* AppDelegate.swift */,
 				1CD27EA31F47CC9C007E0AB3 /* ViewController.swift */,
 				1CD27EA51F47CC9C007E0AB3 /* Main.storyboard */,
+				1CD27EB31F47CE36007E0AB3 /* SecondViewController.swift */,
 				1CD27EA81F47CC9C007E0AB3 /* Assets.xcassets */,
 				1CD27EAA1F47CC9C007E0AB3 /* LaunchScreen.storyboard */,
 				1CD27EAD1F47CC9C007E0AB3 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CD27EB41F47CE36007E0AB3 /* SecondViewController.swift in Sources */,
 				1CD27EA41F47CC9C007E0AB3 /* ViewController.swift in Sources */,
 				1CD27EA21F47CC9C007E0AB3 /* AppDelegate.swift in Sources */,
 			);
